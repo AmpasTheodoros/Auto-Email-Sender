@@ -1,5 +1,8 @@
 # Auto-Email-Sender
 
+DISCLAIMER
+you can send pictures or any kind of file you can only type your email
+
 Requirements:
 
 First of all you're going to
